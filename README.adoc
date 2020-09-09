@@ -15,5 +15,5 @@ The Jakarta EE Collateral provides a place to converge, discuss, develop, and re
 
 
 === How can I contribute?
-To learn more how to contribute check out the link:{CONTRIBUTING}[CONTRIBUTING] document.
+To learn more how to contribute check out the link:CONTRIBUTING.adoc[CONTRIBUTING] document.
 
