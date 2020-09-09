@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to Jakarta EE Collateral R
 
 ==== Content Guidelines
 
-- link:docs/guidelines/{video}[Videos]
-- link:docs/guidelines/{image}[Images]
+- link:docs/guidelines/video.adoc[Videos]
+- link:docs/guidelines/image.adoc[Images]
 
 
