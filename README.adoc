@@ -1,3 +1,19 @@
 = Jakarta EE Collateral
 
+The Jakarta EE Collateral provides a place to converge, discuss, develop, and release community-driven collateral contributions related to the use and adoption of JakartaEE technology. The contributions can be any type of the following but not limited to:
+
+- Tutorials
+- Interviews
+- Blog posts
+- Ebooks
+- Videos
+- Hackathons
+- Workshops
+- Translations
+- Podcast
+- Images and design material
+
+
+=== How can I contribute?
+To learn more how to contribute check out the link:CONTRIBUTING.adoc[CONTRIBUTING] document.
 

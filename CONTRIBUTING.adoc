@@ -1,0 +1,19 @@
+= Contributing to JarkataEE Collateral
+
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
+The following is a set of guidelines for contributing to Jakarta EE Collateral Repository.
+
+
+==== What should I do before I get started?
+
+- Create an https://dev.eclipse.org/site_login/createaccount.php[Eclipse account]
+- Electronically sign the http://www.eclipse.org/contribute/cla[Eclipse Contributor Agreement]
+- Make sure your Github Pull Request are https://wiki.eclipse.org/Development_Resources/Contributing_via_Git#Signing_off_on_a_commit[signed].
+
+==== Content Guidelines
+
+- link:docs/guidelines/video.adoc[Videos]
+- link:docs/guidelines/image.adoc[Images]
+
+
