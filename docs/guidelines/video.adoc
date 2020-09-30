@@ -1,1 +1,49 @@
 = Video and Youtube Channel Guidelines
+
+== Overview
+
+Jakarta EE Youtube https://www.youtube.com/channel/UC4M7h5b6elu9VlzjLfzuXyg[channel] is a platform that features Jakarta EE related videos aiming to educate the new and existing community members about open source cloud native and microservices technologies. This channel is inclusive as it covers Jakarta EE Community Update calls, Jakarta Tech Talks, playlists, replays of virtual events, and Jakarta EE related community videos. Jakarta EE videos are non-promotional and focus on education and thought leadership within the cloud native space with the goal of increasing awareness, contributions, adoption, and support.
+
+== Guidelines and Requirements
+
+Content guidelines and requirements are outlined in this document. Videos that do not meet the requirements will be rejected.
+
+=== Who can submit a video
+
+- Jakarta EE WG Members
+- Jakarta EE Committers/Contributors
+- Jakarta EE User/community Groups or equivalent
+- Jakarta EE Technology Experts
+
+=== Video Content Guidelines
+
+- Videos submitted to the Jakarta EE youtube channel should be non-promotional, technical talks, technical tutorials, interviews with the contributing communities and community experts, demos, and any other technical content highlighting Jakarta EE and its open source impact and importance.
+- If the video is still in a pre-production status, you can submit your proposal by creating a github issue at https://github.com/jakartaee/collateral/issues
+- To submit your video, create a Pull Request to https://github.com/jakartaee/collateral using https://git-lfs.github.com/[Git Large File Storage (LFS)]   including the title (up to 100 Characters) and short description of the video.
+- Format - MP4 is ideal (Other accepted formats include MOV, MPEG4, AVI, WMV)
+- Size - Ideal aspect ratio = 16:9, Maximum file size is 128GB
+- Duration- Videos can be between 3minutes- 3hours max
+- Video content should cover any technical content highlighting Jakarta EE and its open source importance.
+- Not accepted content:
+** Promotional
+** Sales or marketing pitches
+** Content that mislead or misrepresents Jakarta EE related technologies
+
+The  repository comitters and Jakarta EE Marketing Committee will review the statement to approve the content. If changes are needed, we will provide suggested changes.
+
+=== Presentation Slides Guidelines
+
+The link to the speaker’s presentation slides can be added in the description section of the uploaded video upon request. Our recommendation is to use the https://docs.google.com/presentation/d/1jmGSokHaaSYkmP3xyAbq1orlIrQ5RZuZ3ytxeJNqo-w/edit#slide=id.g4e82735634_0_1[ Jakarta EE presentation template] provided in the Jakarta EE Community https://drive.google.com/drive/u/0/folders/1kJFh6EIpOyAWP3JkymYZXOK311WM2HXm[drive] to create the presentation.
+
+Video Contributors can add a slide at the end of the presentation slides to provide more information. Examples:
+
+** Share contact info of presenter - twitter, github, slack, email
+** Links to company websites
+** Links to projects websites or Github
+** Can advertise if they are hiring and who to contact if interested
+
+Any questions on the youtube channel guidelines and requirements, open a github issue in the https://github.com/jakartaee/collateral[Collateral repository]
+
+=== General contribution information and resources
+To learn more how to contribute check out the https://github.com/jakartaee/collateral/blob/master/CONTRIBUTING.adoc[CONTRIBUTING] document.
+
