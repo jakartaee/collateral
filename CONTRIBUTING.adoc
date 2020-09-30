@@ -11,6 +11,16 @@ The following is a set of guidelines for contributing to Jakarta EE Collateral R
 - Electronically sign the http://www.eclipse.org/contribute/cla[Eclipse Contributor Agreement]
 - Make sure your Github Pull Request are https://wiki.eclipse.org/Development_Resources/Contributing_via_Git#Signing_off_on_a_commit[signed].
 
+
+==== Rules and Requirements Checklist
+
+- https://github.com/jakartaee/jakarta.ee/blob/src/CODE_OF_CONDUCT.md[Code of Conduct]
+- All materials shared and collaborated on in the collateral repo should adhere to the https://jakarta.ee/legal/trademark_guidelines/[Jakarta EE Trademark Guidelines] and https://jakarta.ee/legal/trademark_guidelines/jakarta-ee-branding-guidelines.pdf[Jakarta EE Brand Usage Handbook]
+- https://docs.google.com/document/d/1x1AqrWW27BCyxlAPzBWkxg0D5Vs5ijnAVz8YKWebrqA/edit[Copyright Notice Recommendations]
+- https://docs.google.com/document/d/1AeK6YzEtr-KF8pFXApX0JCgFEzJp_W3CZ0EOy9bSrEI/edit?ts=5ed96f21#heading=h.30j0zll[Social media policy and guideline]
+
+
+
 ==== Content Guidelines
 
 - link:docs/guidelines/video.adoc[Videos]
