@@ -1,0 +1,43 @@
+= Workflow to make your first Pull Request
+
+Assuming that you already have an Eclipse User account and signed the Eclipse Contribution Agreement, the following is how you can create PR's for Jakarta EE related project:
+
+- If it's the first time you are going to work on the repository: Fork into your account the repository https://github.com/jakartaee/collateral
+
+- Download (you can use the Github UI option `Open With Github Desktop`) your new fork into your computer.
+
+- In your local repository, create a branch for they contribution, example:
+
+    git checkout -b jakartaEEandMP
+
+
+- Set your upstream to your origin:
+
+    git push --set-upstream origin jakartaEEandMP
+
+- Add, edit or perform the changes required in your contribution.
+
+- Stage your new files:
+
+   git add .
+
+- Commit your changes locally:
+
+    commit -m "Added Synergy JakartaEE and MicroProfile artwork."
+
+- Assuming your GitHub username is: `CONTRIBUTOR` and the email address used for your Eclipse account is: `CONTRIBUTOR@mail.com`, the following is the line you can use to sign the commit:
+
+    git commit --amend --author="CONTRIBUTOR <CONTRIBUTOR@mail.com>"
+
+- Add bellow the line of commit message removing any trailing blan line:
+
+    Signed-off-by: CONTRIBUTOR <CONTRIBUTOR@mail.com>
+
+- Push your changes to your remote repository
+
+    git push
+
+- Navigating to Github web UI, create the Pull request.
+
+
+We know you may be already  familiar with the Git and Github PR process and there are many ways to accomplish what we described above, but this question is a recurring one so we like to provide visibility to others and, also learn something new with the feedback we got when posting this kind of micro recipes 👍
