@@ -6,7 +6,7 @@ Assuming that you already have an Eclipse User account and signed the Eclipse Co
 
 - Download (you can use the Github UI option `Open With Github Desktop`) your new fork into your computer.
 
-- In your local repository, create a branch for they contribution, example:
+- In your local repository, create a branch for the contribution, example:
 
     git checkout -b jakartaEEandMP
 
@@ -21,17 +21,23 @@ Assuming that you already have an Eclipse User account and signed the Eclipse Co
 
    git add .
 
-- Commit your changes locally:
+- Assuming your GitHub username is: `CONTRIBUTOR` and the email address used for your Eclipse account is: `CONTRIBUTOR@mail.com`, the following is the line you can use to commit and sign your contribution. Before you do so, verify that you have configured Git with the correct email using `git config --get user.email`
 
-    commit -m "Added Synergy JakartaEE and MicroProfile artwork."
+        git commit -m "Added Synergy JakartaEE and MicroProfile artwork." -s
 
-- Assuming your GitHub username is: `CONTRIBUTOR` and the email address used for your Eclipse account is: `CONTRIBUTOR@mail.com`, the following is the line you can use to sign the commit:
+[NOTE]
+====
+If your Eclipse account was configure using a different email address than the one you normally use in your local git `user.email` configuration, you have a couple of options to modify your `email` in your contribution:
 
-    git commit --amend --author="CONTRIBUTOR <CONTRIBUTOR@mail.com>"
+1. You can configure the specific email address in your `.git/config` for a specific repository. From within the repository execute:
 
-- Add bellow the line of commit message removing any trailing blan line:
+    git config user.email "NEWEMAIL@mail.com"
 
-    Signed-off-by: CONTRIBUTOR <CONTRIBUTOR@mail.com>
+2. Or, Amend the commit with the specific email address:
+
+     git commit --amend --author="CONTRIBUTOR <NEWEMAIL@mail.com>"
+
+====
 
 - Push your changes to your remote repository
 
