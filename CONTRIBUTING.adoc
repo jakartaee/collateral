@@ -30,3 +30,4 @@ The following is a set of guidelines for contributing to Jakarta EE Collateral R
 ==== Resources
 
 - https://www.eclipse.org/artwork/
+- link:docs/how-to-pr.adoc[How to make your first Pull Request]
