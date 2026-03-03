@@ -17,3 +17,8 @@ The Jakarta EE Collateral provides a place to converge, discuss, develop, and re
 === How can I contribute?
 To learn more how to contribute check out the link:CONTRIBUTING.adoc[CONTRIBUTING] document.
 
+=== How can my Jakarta EE work be promoted?
+Examples of what can be promoted: 
+
+- Jakarta EE implementations
+- Production applications that are based on Jakarta EE technology
