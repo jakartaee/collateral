@@ -18,14 +18,15 @@ The Jakarta EE Collateral provides a place to converge, discuss, develop, and re
 To learn more how to contribute check out the link:CONTRIBUTING.adoc[CONTRIBUTING] document.
 
 === How can my Jakarta EE work be promoted?
-The Jakarta EE community can request promotion of technologies and real-world applications that implement or use Jakarta EE specifications. This helps us highlight the broader adoption of Jakarta EE technologies across the ecosystem in a consistent and vendor-neutral way.
+The Jakarta EE community *can request promotion of technologies and real-world applications that implement or use Jakarta EE specifications.* This helps us highlight the broader adoption of Jakarta EE technologies across the ecosystem in a consistent and vendor-neutral way.
 
-Examples of what can be promoted include:
+*Examples of what can be promoted include:*
 
-Products and technologies implementing one or more Jakarta EE specifications
-Production applications built using Jakarta EE technologies
-New releases or significant milestones related to these implementations
-Request promotion
+* Products and technologies implementing one or more Jakarta EE specifications
+* Production applications built using Jakarta EE technologies
+* New releases or significant milestones related to these implementations
+
+*Request promotion*
 
 To request promotion, complete and submit the Jakarta EE promotion request form. You’ll be asked to provide basic information about your product or project, the Jakarta EE specification(s) it implements or uses, supporting implementation information, a release or project link, and suggested messaging.
 
