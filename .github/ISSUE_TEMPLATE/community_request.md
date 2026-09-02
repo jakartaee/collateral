@@ -1,21 +1,19 @@
 ---
-name: Compatible Software Products
-about: For Compatible Software Products to be listed on the Jakarta EE official list of Software Products
+name: Request Jakarta EE Promotion
+about: Request promotion of a product, technology, application, release, or milestone that implements or uses Jakarta EE specifications.
 
 ---
 
 To include your Compatible Software Product on the Jakarta EE official list of Compatible Software Products, please provide the following information:
 
-**The URL to the Eclipse Foundation profile to confirm that you are an authorized representative of the company whose product information you are submitting**
 
-**A product name and version**
+**A product name and Jakarta EE version**
 
-**Where to list the Compatible Product (Platform, Web Profile, Core Profile)**
+**Proof of implementation Certification compatibility request (CCR) submission or individual specification page that’s listing the that implementation**
 
 **A ZIP file with a product logo with a transparent background in SVG format (optional)**
 
-**The Participant, Enterprise or Strategic Member name supporting the Compatible Software Product**
+**Release type (new version/ milestone)**
 
-**The URL to the approved certification issue demonstrating compatibility as defined in the Jakarta EE TCK Process**
-
-**The URL where Compatible Software Product is available for download**
+**Official release link**
+**Suggested messaging or key points for promotion**
