@@ -28,7 +28,7 @@ The Jakarta EE community *can request promotion of technologies and real-world a
 
 *Request promotion*
 
-To request promotion, complete and submit the Jakarta EE promotion request form. You’ll be asked to provide basic information about your product or project, the Jakarta EE specification(s) it implements or uses, supporting implementation information, a release or project link, and suggested messaging.
+To request promotion, complete and submit the Jakarta EE promotion link:request form[https://github.com/jakartaee/collateral/blob/master/.github/ISSUE_TEMPLATE/community_request.md]. You’ll be asked to provide basic information about your product or project, the Jakarta EE specification(s) it implements or uses, supporting implementation information, a release or project link, and suggested messaging.
 
 Submissions will be reviewed by the Jakarta EE Marketing Committee. Once approved, eligible submissions will be scheduled for promotion through Jakarta EE social channels.
 
