@@ -4,7 +4,7 @@ about: Request promotion of a product, technology, application, release, or mile
 
 ---
 
-To include your Compatible Software Product on the Jakarta EE official list of Compatible Software Products, please provide the following information:
+Please provide the following information:
 
 
 **A product name and Jakarta EE version**
