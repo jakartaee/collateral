@@ -16,4 +16,5 @@ Please provide the following information:
 **Release type (new version/ milestone)**
 
 **Official release link**
+
 **Suggested messaging or key points for promotion**
